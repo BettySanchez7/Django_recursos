@@ -24,6 +24,9 @@ Virtualenv es un programa que permite crear entornos virtuales de Python. Un ent
 	Ejecuta el script activa : `./activate`
 * Dentro de esa carpeta(nombre_directorio) instalar los requerimientos necesarios comenzando con django `pip install django`
 
+
+¡LISTO! Tienes lo necesario para comenzar a crear tu proyecto.
+
 [Documentación oficial](https://docs.djangoproject.com/en/3.1/intro/install/)
 
 [Guia por DjangoGirls](https://argentinaenpython.com/django-girls/tutorial/django_installation/)
