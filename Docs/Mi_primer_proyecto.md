@@ -39,5 +39,5 @@ Iniciar servidor:
 
 	$python manage.py runserver
 ![IMAGEN 1](https://github.com/BettySanchez7/Django_recursos/blob/main/Images/runserver.png)
-![IMAGEN2](https://github.com/BettySanchez7/Django_recursos/blob/main/Images/runserver.png)
+![IMAGEN2](https://github.com/BettySanchez7/Django_recursos/blob/main/Images/runserver2.png)
 
