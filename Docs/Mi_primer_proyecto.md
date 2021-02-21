@@ -21,12 +21,19 @@ Dentro de la carpeta donde se almacenara el proyecto iniciar el proyecto:
 
  `Proyecto1
 	    ├───manage.py
+	    
 		└───Proyecto1
+		
 				settings.py
+				
 		        urls.py
+		        
 		        wsgi.py
+		        
 		        asgi.py
+		        
 		        views.py
+		        
 		        __init__.py
 		        `
         
