@@ -20,13 +20,24 @@ Dentro de la carpeta donde se almacenara el proyecto iniciar el proyecto:
 ¡LISTO! Se crearan los archivos necesarios para comenzar a trabajar con una estructura como la siguiente:
 
 Proyecto1
+
+
 ├───manage.py
+
+
 └───Proyecto1
+
         settings.py
+        
         urls.py
+        
         wsgi.py
+        
         views.py
+        
         asgi.py
+        
         __init__.py
+        
         
  
