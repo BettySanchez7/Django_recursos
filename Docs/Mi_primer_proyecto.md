@@ -22,9 +22,7 @@ Dentro de la carpeta donde se almacenara el proyecto iniciar el proyecto:
 Proyecto1
 
 
-├───manage.py
-
-
+<├───manage.py
 └───Proyecto1
 
         settings.py
@@ -33,7 +31,7 @@ Proyecto1
         
         wsgi.py
         
-        views.py
+        views.py>
         
         asgi.py
         
