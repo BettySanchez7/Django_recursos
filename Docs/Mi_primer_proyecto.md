@@ -17,10 +17,6 @@ Dentro de la carpeta donde se almacenara el proyecto iniciar el proyecto:
 
     $django-admin startproject <NombreProyecto>
 
-Se crea un sub carpeta con archivos:
+¡LISTO! Se crearan los archivos necesarios para comenzar a trabajar.
 
-<imagen>
-
-Este archivo ofrece instrucciones y comandos para utilizar y manipular el proyecto.
-
-`$manage.py help`
+-Aqui link al modelo de Django
