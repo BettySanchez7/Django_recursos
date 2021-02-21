@@ -6,7 +6,7 @@
 
 Requisitos:
 1. Instalación de Python (no olvidar agregar al path para usarlo en cualquier lugar)
-
+[Instalación python](https://github.com/BettySanchez7/Django_recursos/blob/main/Images/Screenshot_2.png)
 3. Instalar Django  
 	`pip install django`
 	Se puede hacer de manera global en tu computadora o en un entorno virtual. Si se hace de manera global instalarlo directamente.
