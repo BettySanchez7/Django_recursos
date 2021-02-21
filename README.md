@@ -16,4 +16,4 @@ Es un framework para aplicaciones web gratuito y open source, escrito en Python.
 
 [Instalación](https://github.com/BettySanchez7/Django_recursos/blob/main/Instalaci%C3%B3n/Instalaci%C3%B3n.md)
 
-[¿Cómo crear mi primer proyecto con Django?]()
+[¿Cómo crear mi primer proyecto con Django?](https://github.com/BettySanchez7/Django_recursos/blob/main/Instalaci%C3%B3n/Mi_primer_proyecto.md)
