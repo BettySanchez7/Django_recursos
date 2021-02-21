@@ -26,7 +26,7 @@ Es un framework para aplicaciones web gratuito y open source, escrito en Python.
 
 Django se basa en el patrón Model Template View (MTV), al igual que el modelo vista controlador que es muy conocido, se basa en dividir cualquier aplicación en tres partes: los datos de una aplicación (modelo) , la interfaz de usuario (template), y la lógica de control (view) en tres componentes distintos.
 
-* [MODELO]():  Maneja todo lo relacionado con la información, esto incluye como acceder a esta, la validación, relación entre los datos y su comportamiento.
+* [MODEL]():  Maneja todo lo relacionado con la información, esto incluye como acceder a esta, la validación, relación entre los datos y su comportamiento.
 * [TEMPLATE](): Es el modulo que se encarga de mostrar la información.
 * [VIEW]() : Es un enlace entre el _modelo_ y el _template_. Decide que información sera mostrada y por cual _template._
 
