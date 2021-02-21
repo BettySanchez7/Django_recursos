@@ -1,8 +1,6 @@
-# Django_recursos
-Repositorio para subir proyectos y recursos para aprender Django (manuales, proyectos, etc.)
-**
+# Recursos para aprender Django 
 
-# ¿QUÉ ES DJANGO?
+## ¿QUÉ ES DJANGO?
 
 **
 
