@@ -30,4 +30,13 @@ Dentro de la carpeta donde se almacenara el proyecto iniciar el proyecto:
 		        __init__.py
 		     
         
- 
+ Es necesario hacer varias configuraciones y saber que significa cada archivo pero por ahora para probar que todo este correto, Dentro de la carpeta Proyecto1:
+ Iniciar base de datos:
+	
+	$python manage.py migrate
+	
+Iniciar servidor:
+
+	$python manage.py runserver
+
+
