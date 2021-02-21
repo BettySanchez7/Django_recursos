@@ -10,6 +10,9 @@ Es un framework para aplicaciones web gratuito y open source, escrito en Python.
 ¿No sabes aún python? Aprende python y después aprende Django, será mucho más sencillo, antes de aprender cualquier framework es necesario conocer el lenguaje de programación.
 
 **
-[Instalación]()
+
+
+
+[Instalación](https://github.com/BettySanchez7/Django_recursos/blob/main/Instalaci%C3%B3n/Instalaci%C3%B3n.md)
 
 [¿Cómo crear mi primer proyecto con Django?]()
