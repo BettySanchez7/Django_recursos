@@ -21,10 +21,8 @@ Dentro de la carpeta donde se almacenara el proyecto iniciar el proyecto:
 
  `Proyecto1
 	    ├───manage.py
-	    
 		└───Proyecto1
-		
-				settings.py
+			settings.py
 				
 		        urls.py
 		        
