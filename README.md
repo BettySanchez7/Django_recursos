@@ -38,6 +38,8 @@ Django se basa en el patrón Model Template View (MTV), al igual que el modelo v
 Python nos proporciona una manera sencilla de enviar correos electronicos, muy usados para formularios de contacto, recuperacion de contraseñas entre otras acciones:
 
 [¿Cómo enviar un email con Django?](https://github.com/BettySanchez7/Django_recursos/blob/main/Docs/Emails.md)
+
+
 ---- IN PROCESS... ---
 
 
