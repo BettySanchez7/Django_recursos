@@ -27,23 +27,24 @@ que nos servirá para gestionar la base de datos.
 Es como si nuestras clases fueran las tablas de nuestra base de datos hablando de una base de datos relacional, en el siguiente ejemplo tendremos dos tablas: Clientes y Artículos, cada una con sus respectivas propiedades:
 ```python
 
+from django.db import models
 		
-		from django.db import models
-		
-		class  Clientes(models.Model):
-			nombre = models.CharField(max_length=30)
-			direccion = models.CharField(max_length=50)
-			email = models.EmailField(blank=True, null=True)
-			tfno = models.CharField(max_length=7)
-		class  Articulos(models.Model):
-			nombre = models.CharField(max_length=30)
-			seccion = models.CharField(max_length=20)
-			precio = models.IntegerField()
-		def  __str__(self):
-			return  'El nombre es %s la seccion es %s y el precio es %s' % (self.nombre, self.seccion, self.precio)
+class  Clientes(models.Model):
+	nombre = models.CharField(max_length=30)
+	direccion = models.CharField(max_length=50)
+	email = models.EmailField(blank=True, null=True)
+	telefono = models.CharField(max_length=7)
+class  Articulos(models.Model):
+	nombre = models.CharField(max_length=30)
+	seccion = models.CharField(max_length=20)
+	precio = models.IntegerField()
+	def  __str__(self):
+		return  'El nombre es %s la seccion es %s y el precio es %s' % (self.nombre, self.seccion, self.precio)
 
 ```
 Ahora que tengo mis modelos necesito llenar mi base de datos con ellos:
 * `python manage.py makemigrations`
 * `python manage.py sqlmigrate nombre_app num_migration` con esta instruccion creo el codigo sql que se le insertara a mi base de datos
 * `python manage.py migrate` insertando tablas en la base de datos
+
+¡LISTO!
