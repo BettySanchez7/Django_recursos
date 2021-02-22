@@ -7,7 +7,7 @@
 Es un framework para aplicaciones web gratuito y open source, escrito en Python. Un framework web es un conjunto de componentes que te ayudan a desarrollar sitios web más fácil y rápidamente.
 
 ¿QUÉ CONOCIMIENTOS SE NECESITAN PARA COMENZAR?
-* PYTHON (OBVIAAA): ¿Sabes python y quieres desarrollar backend? Usa Django
+* PYTHON: ¿Sabes python y quieres desarrollar backend? Usa Django
 ¿No sabes aún python? Aprende python y después aprende Django, será mucho más sencillo, antes de aprender cualquier framework es necesario conocer el lenguaje de programación.
 * HTML
 * CSS
