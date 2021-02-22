@@ -16,7 +16,7 @@ Django pertmite reutilizar partes del código de html en diferentes páginas de 
 
 Para la herencia es parecido a la herencia en programación se crea algo llamado plantilla base que en este caso sería la plantilla padre y de la que las demás van a heredar.
 
-Ejemplo de plantilla base.hml :
+Ejemplo de plantilla base.html :
 ``` html
 <html>
 <head>
