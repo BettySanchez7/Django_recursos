@@ -37,9 +37,12 @@ Django se basa en el patrón Model Template View (MTV), al igual que el modelo v
 
 
 
-###Tutoriales, documentación, etc.
+## Tutoriales, documentación, etc.
 
 [Documentación oficial](https://docs.djangoproject.com/en/3.1/)
+ 
 [Curso pildoras informaticas](https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB&index=1)
+
 [Curso UDEMY, escuela de python](https://www.udemy.com/share/102KMUB0ATeVZRR3o=/)
+
 [Tutorial Django Girls](https://argentinaenpython.com/django-girls/tutorial/)
