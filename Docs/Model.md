@@ -49,4 +49,5 @@ Ahora que tengo mis modelos necesito llenar mi base de datos con ellos:
 * `python manage.py sqlmigrate nombre_app num_migration` con esta instruccion creo el codigo sql que se le insertara a mi base de datos
 * `python manage.py migrate` insertando tablas en la base de datos
 
+![img](https://github.com/BettySanchez7/Django_recursos/blob/main/Images/app.png)
 ¡LISTO!
