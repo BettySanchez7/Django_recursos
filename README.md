@@ -28,7 +28,7 @@ Django se basa en el patrón Model Template View (MTV), al igual que el modelo v
 
 * [MODEL](https://github.com/BettySanchez7/Django_recursos/blob/main/Docs/Model.md):  Maneja todo lo relacionado con la información, esto incluye como acceder a esta, la validación, relación entre los datos y su comportamiento.
 * [TEMPLATE](https://github.com/BettySanchez7/Django_recursos/blob/main/Docs/Templates.md): Es el modulo que se encarga de mostrar la información.
-* [VIEW]() : Es un enlace entre el _modelo_ y el _template_. Decide que información sera mostrada y por cual _template._
+* [VIEW](https://github.com/BettySanchez7/Django_recursos/blob/main/Docs/Views.md) : Es un enlace entre el _modelo_ y el _template_. Decide que información sera mostrada y por cual _template._
 
       TEMPLATE ------------VIEW------------MODEL
       
