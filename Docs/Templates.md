@@ -5,12 +5,14 @@ Las templates son lo que propiamente veremos de nuestra pagina web y es en esta 
 Las platillas son archivos con extensión .html, HTML es el código que será interpretado por la página web, es recomendable tener una carpeta junto con todas estas, que comúnmente se le conoce como `templates`.
 
 ** Imprimir variables o usar condicionales dentro de html **
+``` html
 {% if  temas%}
 	{% for  tema  in  temas%}
 		<li>{{tema}}</li>
 	{% endfor %}
 {%else%}
 
+```
 ** HERENCIA E INRUSTACIÓN DE PLATILLAS **
 Django pertmite reutilizar partes del código de html en diferentes páginas de un sitio web, esto facilita y reduce el código.
 
