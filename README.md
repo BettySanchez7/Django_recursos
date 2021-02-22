@@ -33,7 +33,7 @@ Django se basa en el patrón Model Template View (MTV), al igual que el modelo v
       TEMPLATE ------------VIEW------------MODEL
       
 
-
+---- IN PROCESS... ---
 
 
 
