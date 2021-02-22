@@ -9,9 +9,9 @@ Es un framework para aplicaciones web gratuito y open source, escrito en Python.
 ¿QUÉ CONOCIMIENTOS SE NECESITAN PARA COMENZAR?
 * PYTHON (OBVIAAA): ¿Sabes python y quieres desarrollar backend? Usa Django
 ¿No sabes aún python? Aprende python y después aprende Django, será mucho más sencillo, antes de aprender cualquier framework es necesario conocer el lenguaje de programación.
-* HTM
+* HTML
 * CSS
-* NOCIONES SOBRE JAVA SCRIPT
+* JAVA SCRIPT
 
 
 ## INSTALACIÓN Y CREACIÓN DE MI PRIMER PROYECTO CON DJANGO
