@@ -3,11 +3,13 @@ Un modelo en Django es un tipo especial de objeto donde se contendrá toda la in
 En otras palabras aquí vamos a poner todas nuestras tablas de la base de datos peero !sin lenguaje sql!. ¿Entonces cómo?
 
 **Creación de una aplicación con Django**
+
 Antes que nada se necesita crear una aplicación, crear una App en un proyecto de Django permite  modular y tener un mejor control, para crear una aplicación:
 
     $python manage.py startapp nombre_app
 
 **Registrar aplicación**
+
 Dentro del archivo `settings.py` se debe registrar registra la aplicación para hacer uso de ella:
 ```python
 # Application definition
